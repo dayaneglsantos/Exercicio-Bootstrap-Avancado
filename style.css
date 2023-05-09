@@ -31,6 +31,7 @@ h5,
 
 .nav-link {
   color: rgb(8, 17, 185);
+  font-family: "Caveat", cursive;
 }
 
 .nav-item:hover {
